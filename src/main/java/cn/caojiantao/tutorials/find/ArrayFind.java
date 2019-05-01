@@ -3,6 +3,8 @@ package cn.caojiantao.tutorials.find;
 import cn.caojiantao.tutorials.utils.ArrayUtils;
 
 /**
+ * 查找指定 K 大元素，数据集合无序
+ *
  * @author caojiantao
  */
 public class ArrayFind {
